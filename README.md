@@ -1,3 +1,3 @@
 # uploadModernLogin
 Landing page
-Pagina criada apenas com html e css,  apenas como treinamento de  pequenos projetos.
+Pagina criada apenas com html e css, como treinamento de  pequenos projetos.
